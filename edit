@@ -1,0 +1,3 @@
+#!/bin/sh
+# Launch VS Code and redirect all ouput to /dev/null.
+2>/dev/null 1>/dev/null code &

@@ -1,2 +1,2 @@
 # shell-alias
-Shell alias
+Collection of shell aliases and their scripts.
