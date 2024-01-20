@@ -1,0 +1,4 @@
+#!/bin/bash -x
+cat ./git/gc.log
+rm .git/gc.log
+git gc --prune
